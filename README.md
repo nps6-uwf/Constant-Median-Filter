@@ -10,3 +10,6 @@ A cython implementation of the constant time median filter.
 
 <img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/Figure_5.png?raw=true'>
 <p><b>Figure 3.</b>  A trio of tadpoles.  The <i>red</i> (first), <i>green</i> (second), and <i>blue</i> (third) channels are isolated, blurred, and then merged.</p>
+
+To compile the cython:
+<code>python setup.py build_ext --inplace</code>
