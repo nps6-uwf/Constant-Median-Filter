@@ -12,8 +12,10 @@ A cython implementation of the constant time median filter.
 <p><b>Figure 3.</b>  A trio of tadpoles.  The <i>red</i> (first), <i>green</i> (second), and <i>blue</i> (third) channels are isolated, blurred, and then merged.</p>
 
 ## Usage
-1. compile the cython:
+1. Compile the cython 
 <code>python setup.py build_ext --inplace</code>
 
 2. Import into program
 <code>from ctmf import ctmf</code>
+
+Or you can use the pure python version, but its slow and only useful for educational purposes.  
