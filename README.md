@@ -11,16 +11,11 @@ A cython implementation of the constant time median filter.
 <img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/Figure_5.png?raw=true'>
 <p><b>Figure 3.</b>  A trio of tadpoles.  The <i>red</i> (first), <i>green</i> (second), and <i>blue</i> (third) channels are isolated, blurred, and then merged.</p>
 
-## Source Images
-<table>
-  <tr>
-    <td>
-      <img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/zebra.png?raw=true'>
-    </td>
-    <td>
-    </td>
-    <tr>
-</table>
+
+<img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/Figure_5.png?raw=true'>
+<p><b>Figure 4.</b>  A blurred donguri wave.  The <i>hue</i> (first), <i>saturation</i> (second), and <i>value</i> (third) channels are isolated, blurred, and then merged.</p>
+
+
 
 ## Usage
 1. Compile the cython 
