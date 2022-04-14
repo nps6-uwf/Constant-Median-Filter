@@ -7,6 +7,9 @@ A cython implementation of the constant time median filter.
 <table>
   <tr>
     <td>
+      <img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/zebra.png?raw=true'>
+    </td>
+    <td>
     <img src='https://github.com/nps6-uwf/Constant-Median-Filter/blob/main/results/Figure_4.png?raw=true'>
     </td>
     <tr>
